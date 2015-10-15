@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001444498310';
-$dateexpire = '001444534310';
+$datecreate = '001444895706';
+$dateexpire = '001444931706';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:11:{i:20;a:48:{s:2:"ID";s:2:"20";s:11:"TIMESTAMP_X";s:19:"10.10.2015 20:31:18";s:14:"IBLOCK_TYPE_ID";s:16:"bitrix_processes";s:3:"LID";s:2:"s1";s:4:"CODE";s:11:"bitrix_trip";s:4:"NAME";s:48:"Заявление на командировку";s:6:"ACTIVE";s:1:"Y";s:4:"SORT";s:3:"300";s:13:"LIST_PAGE_URL";N;s:15:"DETAIL_PAGE_URL";N;s:16:"SECTION_PAGE_URL";N;s:18:"CANONICAL_PAGE_URL";N;s:7:"PICTURE";s:3:"763";s:11:"DESCRIPTION";s:498:"Оформите заявление на командировку, выберите даты, город, укажите цель поездки, процесс автоматически отправит ваше заявление на утверждение руководителю и далее по цепочке согласования командировок. После утверждения, вы получите уведомление.
 
 Попробуйте, это просто
